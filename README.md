@@ -1,2 +1,4 @@
 # hello-world
-First repository. Will mainly store ideas and what I am currently learning
+First repository. I will mainly store ideas and what I am currently learning 
+
+**Trying different markdown features. Just leanring you know**
